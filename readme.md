@@ -1,4 +1,4 @@
-RECIPE
+RECIPE 
 Pre heat the oven at 200 degrees.
 In a bowl add chocolate and butter. Melt it.
 In another bowl whisk together sugar and eggs.
@@ -10,6 +10,13 @@ Pour the batter in greased ramekins.
 Bake for 9-10 minutes.
 Serve with whipped cream / vanilla ice cream or fresh fruits.
 
+
+
+
+
+
+
+
 INGREDIENTS
 135 135 Gram Dark chocolate
 95 gram Butter
@@ -19,9 +26,12 @@ INGREDIENTS
 
 Key Ingredients
 Dark chocolate, Butter, Icing sugar, Egg yolks + whole eggs, Flour
+
+
+
+
 README.md
 Today, we are going to prepare delicious lava cakes.The lava cakes are some special molten cakes.
-
 A perfect desert for every occasion! Classic chocolate lava cake made with five simple ingredients. So decadent, you just can't say no!
 
 Nutrition Fact
